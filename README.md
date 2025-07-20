@@ -24,7 +24,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Environment Variables
 
-To connect your backend services, create a `.env.local` file in the root of your project and add the following:
+To connect your backend services, create a `.env` file in the root of your project and add the following:
 
 ```env
 #Clerk
@@ -40,7 +40,7 @@ NEXT_PUBLIC_SANITY_DATASET
 STRIPE_SECRET_KEY
 ```
 
-Make sure you **do not commit** your `.env.local` file to version control for security reasons.
+Make sure you **do not commit** your `.env` file to version control for security reasons.
 
 ## Learn More
 
