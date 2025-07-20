@@ -1,4 +1,3 @@
-Here's your updated **README.md** with the sections for **Sanity**, **Stripe**, and **MongoDB URL environment variables** added:
 
 ---
 
